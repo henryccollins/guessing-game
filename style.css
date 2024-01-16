@@ -1,0 +1,16 @@
+#multiply {
+    width: 40px;
+    height: 40px;
+    background-color: lavender;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+}
+#digit {
+    width: 40px;
+    height: 40px;
+    background-color: grey;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+}
